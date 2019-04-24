@@ -8,7 +8,7 @@
 <p>
 	This is an informations only for Leaders!
 	<br>
-	Be a confident with God!
+	Manage with your skills what you received!
 </p>
 <hr>
 <a href="${pageContext.request.contextPath}/">Back to Home Page</a>

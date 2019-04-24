@@ -8,7 +8,7 @@
 <p>
 	This is an informations only for Admins!
 	<br>
-	Only believe!
+	Work as all depend on you!
 </p>
 <hr>
 <a href="${pageContext.request.contextPath}/">Back to Home Page</a>
